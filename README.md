@@ -1,2 +1,2 @@
 # ErzbergOrange.github.io
-This is my project website for computer science principles.
+Hello world! This is my personal page hosted on GitHub Pages
